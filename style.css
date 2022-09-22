@@ -1,0 +1,41 @@
+body {
+  color: black;
+  font-size: 25px;
+}
+
+.background {
+  background-image: url(https://images.pexels.com/photos/2404843/pexels-photo-2404843.jpeg?cs=srgb&dl=pexels-frederik-s%C3%B8rensen-2404843.jpg&fm=jpg);
+  background-size: cover;
+  /* background-color: lightblue; */
+}
+.main-header-div {
+  border: 5px solid blue;
+  border-radius: 10px;
+  margin: 20px 30%;
+  background-color: lightcoral;
+}
+.main-header {
+  color: black;
+  text-align: center;
+}
+.blog-div{
+  border-radius: 10px;
+  margin: 20px 20%;
+  background-color: lightgreen;
+  text-align: center;
+  border-radius: 50px;
+  padding: 1px 10px 20px 10px;
+}
+.blog-image{
+  width: 80%;
+  height: auto;
+}
+#blog-1 {
+  color: brown;
+}
+#blog-2 {
+  color: blue;
+}
+#blog-3 {
+  color: rgb(245, 9, 245);
+}
